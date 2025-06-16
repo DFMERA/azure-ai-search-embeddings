@@ -302,6 +302,9 @@ Answers:
 Answer: Hoja de Vida: Diego Zumárraga Mera. Ingeniero de software con experiencia en desarrollo de aplicaciones web y móviles, apasionado por la inteligencia artificial y el aprendizaje automático.
 Confidence: 0.9860000014305115
 ```
-codigo completo en el notebook: [AzureAISearchQuery.ipynb](AzureAISearchQuery.ipynb)
+Código completo en el notebook: [AzureAISearchQuery.ipynb](AzureAISearchQuery.ipynb)
 
 Como podemos ver, Azure AI Search ha devuelto un resultado relevante para la consulta, a pesar de que en la consulta se incluye la frase común **"Hoja de Vida"**. Esto se debe a que hemos configurado la búsqueda semántica para que tenga en cuenta el título y las palabras clave del documento, lo que mejora la relevancia de los resultados.
+
+Blog Post: [Azure AI Search: Cómo optimizar la búsqueda para tus aplicaciones RAG](https://acelera.tech/2025/06/15/azure-ai-search-como-optimizar-la-busqueda-para-tus-aplicaciones-rag/)
+
